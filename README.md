@@ -1,25 +1,29 @@
 # Project Name
-MSCH-C220 Final Project
-
+The Survey
 ## Theme
-How you thought about or interpreted the theme
+You are pressing buttons for answering a survey.
 
 ## Game Play
 Objective
-Game-play instructions
+Click the begin button
+Click yes or no for what the survey asks you
 
 ## What did you 
-Struggles or surprises you encountered during the development of the game
+I noticed I had to do avatar masking to make 2 animations play on one model so I created two models instead of spending more hours learning how to do it.
 
 ## Implementation
-Features
-Assets, or resources used
+https://www.soundtrap.com was used for the audios.
+Built using Unity 2022.3.45f
+Other assets except the materials were created by the developer.
 
 ## Special Focus
-What is your special focus? What did you do for it? How would you rate your own effort? 1-5. (I will agree or disagree with this sentiment, but I want to know what you thought)
+My special focus is with modeling and animation so I spent the majority of my time modeling the interior and animating the scene of the monster walking in.
+(I will agree or disagree with this sentiment, but I want to know what you thought)
 
 ## References
+https://www.roblox.com/games/10684632908/Start-Survey
 
 ## Future Development
+Maybe surface gui for the screen.
 
-# Created by: Your Name
+# Created by: Ella Beihold
